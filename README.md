@@ -14,7 +14,7 @@ Data Scientist & Data Engineer at Peregrine Capital, based in South Africa. I bu
 | [**nn-foundations-lab**](https://github.com/bryanmehsmith/nn-foundations-lab) | A neural-network library built from scratch in NumPy (tensors, layers, manual backprop, SGD/Adam/AdamW, gradient checking), reproduced line-for-line in PyTorch to verify it. Every derivation is checked two ways: numerically (gradcheck) and against real PyTorch training (parity). |
 | [**basic-jse-momentum-factor**](https://github.com/bryanmehsmith/basic-jse-momentum-factor) | 12-1 momentum factor research and backtesting on the JSE using `yfinance`: signal construction, quantile portfolios, and performance/turnover reporting. |
 | [**demo-site**](https://github.com/bryanmehsmith/demo-site) | The hosting platform behind my POC demos: one Azure Container App, one Caddy reverse proxy, static demos served directly and Streamlit demos pulled in as submodules, each auto-published on push. |
-| [**personal-website**](https://github.com/bryanmehsmith/personal-website) | This site: React + React Router, deployed as an Azure Static Web App, resume compiled from LaTeX in CI. |
+| [**personal-website**](https://github.com/bryanmehsmith/personal-website) | My personal website: React + React Router, deployed as an Azure Static Web App, resume compiled from LaTeX in CI. |
 
 ## Stack
 
